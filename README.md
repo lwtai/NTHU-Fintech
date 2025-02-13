@@ -1,7 +1,8 @@
 # Cryptocurrency Grid Trading Bot
 
 ## Project Overview
-This project implements a grid trading strategy for the BTC/USDT trading pair using API provided by the [Crypto Arsenal](https://docs.crypto-arsenal.io/), they also provide the detail [documentation](https://docs.crypto-arsenal.io/docs/developer/get-started/python/hello-world) about how to use it.  
+This project implements a grid trading strategy for the BTC/USDT trading pair using API provided by the [Crypto Arsenal](https://docs.crypto-arsenal.io/), they also provide the detail [documentation](https://docs.crypto-arsenal.io/docs/developer/get-started/python/hello-world) about how to use it.
+
 The strategy was developed as part of the "Financial Technology Innovation and Application" course at National Tsing Hua University. This implementation achieved notable success in two course competitions:
 - 1st Place in the Mid-term Strategy Competition
 - 3rd Place in the Final Strategy Competition
